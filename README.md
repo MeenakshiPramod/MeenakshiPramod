@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meenakshi Pramod</h1>
 <h3 align="center">I'm passionate about Artificial Intelligence, love solving problems through code, and enjoy hunting down bugs to make software better.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meenakshipramod" alt="meenakshipramod" /></a> </p>
 
 - 🔭 I’m currently working on **AI-driven projects**
 
