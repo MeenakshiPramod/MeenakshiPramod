@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meenakshi Pramod</h1>
-<h3 align="center">I'm passionate about Artificial Intelligence, love solving problems through code, and enjoy hunting down bugs to make software better.</h3>
+<h3 align="center">I'm passionate about Development and Artificial Intelligence, love solving problems through code, and enjoy hunting down bugs to make software better.</h3>
 
 
 - 🔭 I’m currently working on **AI-driven projects**
